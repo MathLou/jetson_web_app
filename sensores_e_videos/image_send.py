@@ -1,7 +1,7 @@
 import base64
 import requests
 
-server_link = 'http://172.31.46.12:5000/'
+server_link = 'http://your_ip:port'
 with open("pudim.jpg", "rb") as img:
     b64_string = base64.b64encode(img.read()).decode("utf-8")
 
