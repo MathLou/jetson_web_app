@@ -5,7 +5,7 @@ import os
 import requests
 import signal
 # lista de programa de sensores para serem lidos
-server_link = "http://172.31.46.12:5000/"
+server_link = "http://your_ip:port/"
 SENSOR_SCRIPTS = ["GPS.py", "alerta.py", "link_send.py", "image_send.py"]
 SENSOR_FILES = ["logs/GPS.json", "logs/alerta.json"]
 POST_ROUTES = {
