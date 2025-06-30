@@ -102,20 +102,6 @@
                 {% endif %}
             </div>
         </div>
-        <div class="section">
-            <h2>Vídeo Gravado</h2>
-            <div class="data">
-                {% if video.video_path != "esperando" %}
-                    <video width="100%" controls>
-                        <source src="{{ url_for('static', filename=video.video_path) }}" type="video/mp4">
-                        Seu navegador não suporta a tag de vídeo.
-                    </video>
-                    <div><a href="{{ url_for('static', filename=video.video_path) }}" download>Clique para baixar o vídeo</a></div>
-                {% else %}
-                    <span class="waiting">{{ video.video_path }}</span>
-                {% endif %}
-            </div>
-        </div>
         
     </div>
 </body>
