@@ -1,0 +1,2177 @@
+[
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:20.897116-03:00",
+    "alerta_id": 1
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:22.897825-03:00",
+    "alerta_id": 2
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:24.898764-03:00",
+    "alerta_id": 3
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:26.899819-03:00",
+    "alerta_id": 4
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:28.900905-03:00",
+    "alerta_id": 5
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:30.901552-03:00",
+    "alerta_id": 6
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:32.902073-03:00",
+    "alerta_id": 7
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:34.903275-03:00",
+    "alerta_id": 8
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:36.904768-03:00",
+    "alerta_id": 9
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:38.905768-03:00",
+    "alerta_id": 10
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:40.906881-03:00",
+    "alerta_id": 11
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:42.907962-03:00",
+    "alerta_id": 12
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:44.909158-03:00",
+    "alerta_id": 13
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:51:46.910421-03:00",
+    "alerta_id": 14
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:08.573651-03:00",
+    "alerta_id": 1
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:10.574228-03:00",
+    "alerta_id": 2
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:12.576035-03:00",
+    "alerta_id": 3
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T13:59:14.577671-03:00",
+    "alerta_id": 4
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:16.578513-03:00",
+    "alerta_id": 5
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:18.580498-03:00",
+    "alerta_id": 6
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:20.582085-03:00",
+    "alerta_id": 7
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:22.583656-03:00",
+    "alerta_id": 8
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:24.585147-03:00",
+    "alerta_id": 9
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:26.586732-03:00",
+    "alerta_id": 10
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:28.588307-03:00",
+    "alerta_id": 11
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T13:59:30.590741-03:00",
+    "alerta_id": 12
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:32.592709-03:00",
+    "alerta_id": 13
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:34.662611-03:00",
+    "alerta_id": 14
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:36.664167-03:00",
+    "alerta_id": 15
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T13:59:38.666481-03:00",
+    "alerta_id": 16
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:40.668613-03:00",
+    "alerta_id": 17
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:42.670439-03:00",
+    "alerta_id": 18
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:44.671918-03:00",
+    "alerta_id": 19
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:46.673650-03:00",
+    "alerta_id": 20
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:48.675108-03:00",
+    "alerta_id": 21
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:50.677136-03:00",
+    "alerta_id": 22
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T13:59:52.677930-03:00",
+    "alerta_id": 23
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:54.678795-03:00",
+    "alerta_id": 24
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:56.679393-03:00",
+    "alerta_id": 25
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T13:59:58.680143-03:00",
+    "alerta_id": 26
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:00.683358-03:00",
+    "alerta_id": 27
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:02.684300-03:00",
+    "alerta_id": 28
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:06.038765-03:00",
+    "alerta_id": 1
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:00:08.039516-03:00",
+    "alerta_id": 2
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:10.040215-03:00",
+    "alerta_id": 3
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:12.042082-03:00",
+    "alerta_id": 4
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:14.044014-03:00",
+    "alerta_id": 5
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:16.045861-03:00",
+    "alerta_id": 6
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:18.046525-03:00",
+    "alerta_id": 7
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:20.047150-03:00",
+    "alerta_id": 8
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:22.047784-03:00",
+    "alerta_id": 9
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:24.048490-03:00",
+    "alerta_id": 10
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:26.048982-03:00",
+    "alerta_id": 11
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:28.049868-03:00",
+    "alerta_id": 12
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:30.050455-03:00",
+    "alerta_id": 13
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:32.051256-03:00",
+    "alerta_id": 14
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:34.052096-03:00",
+    "alerta_id": 15
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:00:36.054602-03:00",
+    "alerta_id": 16
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:00:38.055429-03:00",
+    "alerta_id": 17
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:00:40.056405-03:00",
+    "alerta_id": 18
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:10:49.718353-03:00",
+    "alerta_id": 19
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:10:53.444939-03:00",
+    "alerta_id": 20
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:10:55.447536-03:00",
+    "alerta_id": 21
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:10:57.450360-03:00",
+    "alerta_id": 22
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:10:59.453331-03:00",
+    "alerta_id": 23
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:01.453978-03:00",
+    "alerta_id": 24
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:03.456364-03:00",
+    "alerta_id": 25
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:05.459914-03:00",
+    "alerta_id": 26
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:11:07.460799-03:00",
+    "alerta_id": 27
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:09.461519-03:00",
+    "alerta_id": 28
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:11.462311-03:00",
+    "alerta_id": 29
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:13.464958-03:00",
+    "alerta_id": 30
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:15.465850-03:00",
+    "alerta_id": 31
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:17.466493-03:00",
+    "alerta_id": 32
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:19.467181-03:00",
+    "alerta_id": 33
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:21.467976-03:00",
+    "alerta_id": 34
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:23.469295-03:00",
+    "alerta_id": 35
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:25.472763-03:00",
+    "alerta_id": 36
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:11:27.473843-03:00",
+    "alerta_id": 37
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:29.478177-03:00",
+    "alerta_id": 38
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:31.480526-03:00",
+    "alerta_id": 39
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:33.484898-03:00",
+    "alerta_id": 40
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:35.489854-03:00",
+    "alerta_id": 41
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:37.491441-03:00",
+    "alerta_id": 42
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:39.494045-03:00",
+    "alerta_id": 43
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:41.496422-03:00",
+    "alerta_id": 44
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:43.497493-03:00",
+    "alerta_id": 45
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:45.499393-03:00",
+    "alerta_id": 46
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:47.502555-03:00",
+    "alerta_id": 47
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:11:49.503386-03:00",
+    "alerta_id": 48
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:51.504578-03:00",
+    "alerta_id": 49
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:53.505712-03:00",
+    "alerta_id": 50
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:55.507632-03:00",
+    "alerta_id": 51
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:57.509620-03:00",
+    "alerta_id": 52
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:11:59.513670-03:00",
+    "alerta_id": 53
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:01.515207-03:00",
+    "alerta_id": 54
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:12:03.516261-03:00",
+    "alerta_id": 55
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:05.519890-03:00",
+    "alerta_id": 56
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:07.520795-03:00",
+    "alerta_id": 57
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:09.521870-03:00",
+    "alerta_id": 58
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:11.524881-03:00",
+    "alerta_id": 59
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:13.525670-03:00",
+    "alerta_id": 60
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:15.527120-03:00",
+    "alerta_id": 61
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:17.529966-03:00",
+    "alerta_id": 62
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:19.532567-03:00",
+    "alerta_id": 63
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:21.534009-03:00",
+    "alerta_id": 64
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:23.538272-03:00",
+    "alerta_id": 65
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:25.541304-03:00",
+    "alerta_id": 66
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:27.542395-03:00",
+    "alerta_id": 67
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:29.543229-03:00",
+    "alerta_id": 68
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:31.544983-03:00",
+    "alerta_id": 69
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:33.548224-03:00",
+    "alerta_id": 70
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:35.553214-03:00",
+    "alerta_id": 71
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:37.557125-03:00",
+    "alerta_id": 72
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:39.558872-03:00",
+    "alerta_id": 73
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:41.562585-03:00",
+    "alerta_id": 74
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:12:43.567280-03:00",
+    "alerta_id": 75
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:45.571720-03:00",
+    "alerta_id": 76
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:47.575747-03:00",
+    "alerta_id": 77
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:49.579472-03:00",
+    "alerta_id": 78
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:51.584358-03:00",
+    "alerta_id": 79
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:53.588554-03:00",
+    "alerta_id": 80
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:55.593856-03:00",
+    "alerta_id": 81
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:12:57.597774-03:00",
+    "alerta_id": 82
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:12:59.602249-03:00",
+    "alerta_id": 83
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:01.606450-03:00",
+    "alerta_id": 84
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:03.611872-03:00",
+    "alerta_id": 85
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:05.616717-03:00",
+    "alerta_id": 86
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:07.621310-03:00",
+    "alerta_id": 87
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:09.624830-03:00",
+    "alerta_id": 88
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:11.629479-03:00",
+    "alerta_id": 89
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:13.632968-03:00",
+    "alerta_id": 90
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:15.639081-03:00",
+    "alerta_id": 91
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:17.644824-03:00",
+    "alerta_id": 92
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:19.650521-03:00",
+    "alerta_id": 93
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:21.654019-03:00",
+    "alerta_id": 94
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:23.659296-03:00",
+    "alerta_id": 95
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:25.664335-03:00",
+    "alerta_id": 96
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:27.667265-03:00",
+    "alerta_id": 97
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:29.670544-03:00",
+    "alerta_id": 98
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:31.674316-03:00",
+    "alerta_id": 99
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:33.678315-03:00",
+    "alerta_id": 100
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:35.682111-03:00",
+    "alerta_id": 101
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:37.685294-03:00",
+    "alerta_id": 102
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:39.688625-03:00",
+    "alerta_id": 103
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:13:41.689554-03:00",
+    "alerta_id": 104
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:43.690571-03:00",
+    "alerta_id": 105
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:45.692377-03:00",
+    "alerta_id": 106
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:47.696921-03:00",
+    "alerta_id": 107
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:49.701084-03:00",
+    "alerta_id": 108
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:51.705768-03:00",
+    "alerta_id": 109
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:53.709635-03:00",
+    "alerta_id": 110
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:55.714386-03:00",
+    "alerta_id": 111
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:13:57.717899-03:00",
+    "alerta_id": 112
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:13:59.719361-03:00",
+    "alerta_id": 113
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:01.720782-03:00",
+    "alerta_id": 114
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:03.722200-03:00",
+    "alerta_id": 115
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:05.723617-03:00",
+    "alerta_id": 116
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:07.724993-03:00",
+    "alerta_id": 117
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:14:09.726674-03:00",
+    "alerta_id": 118
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:11.728067-03:00",
+    "alerta_id": 119
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:13.729611-03:00",
+    "alerta_id": 120
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:15.732574-03:00",
+    "alerta_id": 121
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:17.736750-03:00",
+    "alerta_id": 122
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:19.742384-03:00",
+    "alerta_id": 123
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:21.748150-03:00",
+    "alerta_id": 124
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:23.753444-03:00",
+    "alerta_id": 125
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:25.759308-03:00",
+    "alerta_id": 126
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:27.764850-03:00",
+    "alerta_id": 127
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:29.770122-03:00",
+    "alerta_id": 128
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:31.775637-03:00",
+    "alerta_id": 129
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:33.780833-03:00",
+    "alerta_id": 130
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:35.786229-03:00",
+    "alerta_id": 131
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:37.796858-03:00",
+    "alerta_id": 132
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:39.802082-03:00",
+    "alerta_id": 133
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:41.807761-03:00",
+    "alerta_id": 134
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:43.813248-03:00",
+    "alerta_id": 135
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:45.818918-03:00",
+    "alerta_id": 136
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:47.824231-03:00",
+    "alerta_id": 137
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:14:49.829361-03:00",
+    "alerta_id": 138
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:51.831267-03:00",
+    "alerta_id": 139
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:53.836853-03:00",
+    "alerta_id": 140
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:55.842573-03:00",
+    "alerta_id": 141
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:57.848274-03:00",
+    "alerta_id": 142
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:14:59.854030-03:00",
+    "alerta_id": 143
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:01.859532-03:00",
+    "alerta_id": 144
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:03.865033-03:00",
+    "alerta_id": 145
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:05.871007-03:00",
+    "alerta_id": 146
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:07.876885-03:00",
+    "alerta_id": 147
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:09.882547-03:00",
+    "alerta_id": 148
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:11.888716-03:00",
+    "alerta_id": 149
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:13.894937-03:00",
+    "alerta_id": 150
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:15.900571-03:00",
+    "alerta_id": 151
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:17.908037-03:00",
+    "alerta_id": 152
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:19.913634-03:00",
+    "alerta_id": 153
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:21.919628-03:00",
+    "alerta_id": 154
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:23.925382-03:00",
+    "alerta_id": 155
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:25.930490-03:00",
+    "alerta_id": 156
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:27.935491-03:00",
+    "alerta_id": 157
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:29.940252-03:00",
+    "alerta_id": 158
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:31.946090-03:00",
+    "alerta_id": 159
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:33.950607-03:00",
+    "alerta_id": 160
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:35.953964-03:00",
+    "alerta_id": 161
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:37.955093-03:00",
+    "alerta_id": 162
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:39.960156-03:00",
+    "alerta_id": 163
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:41.967907-03:00",
+    "alerta_id": 164
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:43.975099-03:00",
+    "alerta_id": 165
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:45.976800-03:00",
+    "alerta_id": 166
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:47.981027-03:00",
+    "alerta_id": 167
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:49.983045-03:00",
+    "alerta_id": 168
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:51.984664-03:00",
+    "alerta_id": 169
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:53.986931-03:00",
+    "alerta_id": 170
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:15:55.990064-03:00",
+    "alerta_id": 171
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:57.994207-03:00",
+    "alerta_id": 172
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:15:59.999478-03:00",
+    "alerta_id": 173
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:02.001532-03:00",
+    "alerta_id": 174
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:04.006733-03:00",
+    "alerta_id": 175
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:06.008867-03:00",
+    "alerta_id": 176
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:08.014455-03:00",
+    "alerta_id": 177
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:10.015714-03:00",
+    "alerta_id": 178
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:12.017603-03:00",
+    "alerta_id": 179
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:16:14.019371-03:00",
+    "alerta_id": 180
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:16.021228-03:00",
+    "alerta_id": 181
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:18.023019-03:00",
+    "alerta_id": 182
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:20.024938-03:00",
+    "alerta_id": 183
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:22.026737-03:00",
+    "alerta_id": 184
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:24.028602-03:00",
+    "alerta_id": 185
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:26.030543-03:00",
+    "alerta_id": 186
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:28.032634-03:00",
+    "alerta_id": 187
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:30.038843-03:00",
+    "alerta_id": 188
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:32.041241-03:00",
+    "alerta_id": 189
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:34.042853-03:00",
+    "alerta_id": 190
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:36.049644-03:00",
+    "alerta_id": 191
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:38.056543-03:00",
+    "alerta_id": 192
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:40.062546-03:00",
+    "alerta_id": 193
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:16:42.068638-03:00",
+    "alerta_id": 194
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:44.074657-03:00",
+    "alerta_id": 195
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:46.080712-03:00",
+    "alerta_id": 196
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:48.087747-03:00",
+    "alerta_id": 197
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:50.093318-03:00",
+    "alerta_id": 198
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:52.095518-03:00",
+    "alerta_id": 199
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:54.102447-03:00",
+    "alerta_id": 200
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:56.109708-03:00",
+    "alerta_id": 201
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:16:58.115422-03:00",
+    "alerta_id": 202
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:00.117678-03:00",
+    "alerta_id": 203
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:17:02.124134-03:00",
+    "alerta_id": 204
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:04.130268-03:00",
+    "alerta_id": 205
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:06.136669-03:00",
+    "alerta_id": 206
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:17:08.146321-03:00",
+    "alerta_id": 207
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:10.152088-03:00",
+    "alerta_id": 208
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:12.159608-03:00",
+    "alerta_id": 209
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:14.166167-03:00",
+    "alerta_id": 210
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:16.174327-03:00",
+    "alerta_id": 211
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:18.181983-03:00",
+    "alerta_id": 212
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:17:20.185400-03:00",
+    "alerta_id": 213
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:22.191585-03:00",
+    "alerta_id": 214
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:24.198873-03:00",
+    "alerta_id": 215
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:17:26.204707-03:00",
+    "alerta_id": 216
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:28.211931-03:00",
+    "alerta_id": 217
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:17:30.215257-03:00",
+    "alerta_id": 218
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:32.221298-03:00",
+    "alerta_id": 219
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:34.227118-03:00",
+    "alerta_id": 220
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:36.234653-03:00",
+    "alerta_id": 221
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:38.242023-03:00",
+    "alerta_id": 222
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:40.248506-03:00",
+    "alerta_id": 223
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:42.255377-03:00",
+    "alerta_id": 224
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:44.260503-03:00",
+    "alerta_id": 225
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:46.268849-03:00",
+    "alerta_id": 226
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:48.276570-03:00",
+    "alerta_id": 227
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:50.284218-03:00",
+    "alerta_id": 228
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:52.290809-03:00",
+    "alerta_id": 229
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:54.297256-03:00",
+    "alerta_id": 230
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:56.303395-03:00",
+    "alerta_id": 231
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:17:58.310104-03:00",
+    "alerta_id": 232
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:00.316797-03:00",
+    "alerta_id": 233
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:18:02.322359-03:00",
+    "alerta_id": 234
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:04.331487-03:00",
+    "alerta_id": 235
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:06.337465-03:00",
+    "alerta_id": 236
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:08.344171-03:00",
+    "alerta_id": 237
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:10.346443-03:00",
+    "alerta_id": 238
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:12.347828-03:00",
+    "alerta_id": 239
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:14.351001-03:00",
+    "alerta_id": 240
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:16.354890-03:00",
+    "alerta_id": 241
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:18.361018-03:00",
+    "alerta_id": 242
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:18:20.367091-03:00",
+    "alerta_id": 243
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:22.369726-03:00",
+    "alerta_id": 244
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:24.376123-03:00",
+    "alerta_id": 245
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:26.385418-03:00",
+    "alerta_id": 246
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:28.393555-03:00",
+    "alerta_id": 247
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:30.396801-03:00",
+    "alerta_id": 248
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:18:32.399157-03:00",
+    "alerta_id": 249
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:34.401865-03:00",
+    "alerta_id": 250
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:36.404127-03:00",
+    "alerta_id": 251
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:38.406437-03:00",
+    "alerta_id": 252
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:40.408803-03:00",
+    "alerta_id": 253
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:18:42.411426-03:00",
+    "alerta_id": 254
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:44.413752-03:00",
+    "alerta_id": 255
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:46.416080-03:00",
+    "alerta_id": 256
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:48.418421-03:00",
+    "alerta_id": 257
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:50.421528-03:00",
+    "alerta_id": 258
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:18:52.428032-03:00",
+    "alerta_id": 259
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:54.434848-03:00",
+    "alerta_id": 260
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:56.440948-03:00",
+    "alerta_id": 261
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:18:58.447597-03:00",
+    "alerta_id": 262
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:00.454803-03:00",
+    "alerta_id": 263
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:02.461353-03:00",
+    "alerta_id": 264
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:04.468031-03:00",
+    "alerta_id": 265
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:19:06.474289-03:00",
+    "alerta_id": 266
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:08.481147-03:00",
+    "alerta_id": 267
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:10.487790-03:00",
+    "alerta_id": 268
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:12.496972-03:00",
+    "alerta_id": 269
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:14.498876-03:00",
+    "alerta_id": 270
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:16.507538-03:00",
+    "alerta_id": 271
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:18.511530-03:00",
+    "alerta_id": 272
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:20.517513-03:00",
+    "alerta_id": 273
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:19:23.090407-03:00",
+    "alerta_id": 274
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:25.096649-03:00",
+    "alerta_id": 275
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:19:27.105306-03:00",
+    "alerta_id": 276
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:29.111716-03:00",
+    "alerta_id": 277
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:31.118541-03:00",
+    "alerta_id": 278
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:33.128123-03:00",
+    "alerta_id": 279
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:35.134726-03:00",
+    "alerta_id": 280
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:37.141712-03:00",
+    "alerta_id": 281
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:39.148440-03:00",
+    "alerta_id": 282
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:41.155512-03:00",
+    "alerta_id": 283
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:43.165760-03:00",
+    "alerta_id": 284
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:45.172431-03:00",
+    "alerta_id": 285
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:47.178935-03:00",
+    "alerta_id": 286
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:49.185317-03:00",
+    "alerta_id": 287
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:51.191785-03:00",
+    "alerta_id": 288
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:53.202042-03:00",
+    "alerta_id": 289
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:55.208851-03:00",
+    "alerta_id": 290
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:19:57.215585-03:00",
+    "alerta_id": 291
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:19:59.222530-03:00",
+    "alerta_id": 292
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:01.228826-03:00",
+    "alerta_id": 293
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:03.238755-03:00",
+    "alerta_id": 294
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:05.245314-03:00",
+    "alerta_id": 295
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:07.251901-03:00",
+    "alerta_id": 296
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:09.258599-03:00",
+    "alerta_id": 297
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:11.267812-03:00",
+    "alerta_id": 298
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:13.274437-03:00",
+    "alerta_id": 299
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:20:15.284041-03:00",
+    "alerta_id": 300
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:17.293882-03:00",
+    "alerta_id": 301
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:19.303612-03:00",
+    "alerta_id": 302
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:21.314437-03:00",
+    "alerta_id": 303
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:23.324694-03:00",
+    "alerta_id": 304
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:25.335091-03:00",
+    "alerta_id": 305
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:27.345210-03:00",
+    "alerta_id": 306
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:20:29.355225-03:00",
+    "alerta_id": 307
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:31.364922-03:00",
+    "alerta_id": 308
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:33.373512-03:00",
+    "alerta_id": 309
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:35.380977-03:00",
+    "alerta_id": 310
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:37.388615-03:00",
+    "alerta_id": 311
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:39.396833-03:00",
+    "alerta_id": 312
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:41.405155-03:00",
+    "alerta_id": 313
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:43.412766-03:00",
+    "alerta_id": 314
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:45.421015-03:00",
+    "alerta_id": 315
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:20:47.424148-03:00",
+    "alerta_id": 316
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:49.432582-03:00",
+    "alerta_id": 317
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:51.440084-03:00",
+    "alerta_id": 318
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:20:53.443028-03:00",
+    "alerta_id": 319
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:55.445034-03:00",
+    "alerta_id": 320
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:20:57.446967-03:00",
+    "alerta_id": 321
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:20:59.454138-03:00",
+    "alerta_id": 322
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:01.460648-03:00",
+    "alerta_id": 323
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:03.467427-03:00",
+    "alerta_id": 324
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:05.477186-03:00",
+    "alerta_id": 325
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:07.486991-03:00",
+    "alerta_id": 326
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:09.497154-03:00",
+    "alerta_id": 327
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:11.506572-03:00",
+    "alerta_id": 328
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:13.510976-03:00",
+    "alerta_id": 329
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:15.519659-03:00",
+    "alerta_id": 330
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:17.524632-03:00",
+    "alerta_id": 331
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:19.527528-03:00",
+    "alerta_id": 332
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:21.530222-03:00",
+    "alerta_id": 333
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:23.532783-03:00",
+    "alerta_id": 334
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:25.539278-03:00",
+    "alerta_id": 335
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:21:27.546165-03:00",
+    "alerta_id": 336
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:29.548930-03:00",
+    "alerta_id": 337
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:31.551945-03:00",
+    "alerta_id": 338
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:33.554962-03:00",
+    "alerta_id": 339
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:35.562320-03:00",
+    "alerta_id": 340
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:37.569751-03:00",
+    "alerta_id": 341
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:39.576948-03:00",
+    "alerta_id": 342
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:41.582553-03:00",
+    "alerta_id": 343
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:43.590350-03:00",
+    "alerta_id": 344
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:45.596833-03:00",
+    "alerta_id": 345
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:47.603474-03:00",
+    "alerta_id": 346
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:21:49.609317-03:00",
+    "alerta_id": 347
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:51.616020-03:00",
+    "alerta_id": 348
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:53.622870-03:00",
+    "alerta_id": 349
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:55.629461-03:00",
+    "alerta_id": 350
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:57.638627-03:00",
+    "alerta_id": 351
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:21:59.648196-03:00",
+    "alerta_id": 352
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:01.651674-03:00",
+    "alerta_id": 353
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:03.658356-03:00",
+    "alerta_id": 354
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:05.665761-03:00",
+    "alerta_id": 355
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:07.672606-03:00",
+    "alerta_id": 356
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:09.679796-03:00",
+    "alerta_id": 357
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:11.689034-03:00",
+    "alerta_id": 358
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:13.699064-03:00",
+    "alerta_id": 359
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:22:15.701454-03:00",
+    "alerta_id": 360
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:17.708188-03:00",
+    "alerta_id": 361
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:19.711159-03:00",
+    "alerta_id": 362
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:21.717881-03:00",
+    "alerta_id": 363
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:23.727851-03:00",
+    "alerta_id": 364
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:25.734862-03:00",
+    "alerta_id": 365
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:27.741674-03:00",
+    "alerta_id": 366
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:29.752502-03:00",
+    "alerta_id": 367
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:31.764361-03:00",
+    "alerta_id": 368
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:33.775209-03:00",
+    "alerta_id": 369
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:35.781507-03:00",
+    "alerta_id": 370
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:37.791644-03:00",
+    "alerta_id": 371
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:39.801044-03:00",
+    "alerta_id": 372
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:41.811074-03:00",
+    "alerta_id": 373
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:43.816577-03:00",
+    "alerta_id": 374
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:45.824755-03:00",
+    "alerta_id": 375
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:47.833733-03:00",
+    "alerta_id": 376
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:49.842610-03:00",
+    "alerta_id": 377
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:51.848542-03:00",
+    "alerta_id": 378
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:53.857032-03:00",
+    "alerta_id": 379
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:22:55.866683-03:00",
+    "alerta_id": 380
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:57.876765-03:00",
+    "alerta_id": 381
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:22:59.887461-03:00",
+    "alerta_id": 382
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:01.894636-03:00",
+    "alerta_id": 383
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:03.905137-03:00",
+    "alerta_id": 384
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:05.914841-03:00",
+    "alerta_id": 385
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:07.925741-03:00",
+    "alerta_id": 386
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:23:09.935246-03:00",
+    "alerta_id": 387
+  },
+  {
+    "alerta": "ALERTA",
+    "timestamp": "2025-06-30T14:23:11.944527-03:00",
+    "alerta_id": 388
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:13.953986-03:00",
+    "alerta_id": 389
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:15.966030-03:00",
+    "alerta_id": 390
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:17.974584-03:00",
+    "alerta_id": 391
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:19.983850-03:00",
+    "alerta_id": 392
+  },
+  {
+    "alerta": "normal",
+    "timestamp": "2025-06-30T14:23:21.992448-03:00",
+    "alerta_id": 393
+  },
+  

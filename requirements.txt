@@ -1,0 +1,3 @@
+pip install backports.zoneinfo
+pip install flask
+pip install python-opencv

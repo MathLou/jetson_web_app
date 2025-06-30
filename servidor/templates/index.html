@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dados Recebidos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 800px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .section h2 {
+            color: #555;
+            margin-bottom: 10px;
+        }
+        .data {
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+            margin: 5px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+        .waiting {
+            color: #888;
+            font-style: italic;
+        }
+    </style>
+    <script>
+    // Recarrega a página a cada 2 milisegundos
+    setInterval(function() {
+        window.location.reload();
+    }, 2000);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Dados Recebidos</h1>
+        
+        <div class="section">
+            <h2>Dados GPS</h2>
+            <div class="data">Latitude: {{ gps.latitude }}</div>
+            <div class="data">Longitude: {{ gps.longitude }}</div>
+            <div class="data">Timestamp: {{ gps.timestamp }}</div>
+        </div>
+
+        <div class="section">
+        <h2>Alerta</h2>
+
+        <div class="data">
+            {% if alerta.alerta == "ALERTA" %}
+                <strong style="color: red;">{{ alerta.alerta }}</strong>
+            {% else %}
+                <span class="waiting">{{ alerta.alerta }}</span>
+            {% endif %}
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Link</h2>
+            <div class="data">
+                {% if link.link != "esperando" %}
+                    <a href="{{ link.link }}" target="_blank">{{ link.link }}</a>
+                {% else %}
+                    <span class="waiting">{{ link.link }}</span>
+                {% endif %}
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Imagem</h2>
+            <div class="data">
+                {% if image.image_base64 != "esperando" %}
+                    <img src="data:image/jpeg;base64,{{ image.image_base64 }}" alt="Imagem Recebida">
+                {% else %}
+                    <span class="waiting">{{ image.image_base64 }}</span>
+                {% endif %}
+            </div>
+        </div>
+        <div class="section">
+            <h2>Vídeo Gravado</h2>
+            <div class="data">
+                {% if video.video_path != "esperando" %}
+                    <video width="100%" controls>
+                        <source src="{{ url_for('static', filename=video.video_path) }}" type="video/mp4">
+                        Seu navegador não suporta a tag de vídeo.
+                    </video>
+                    <div><a href="{{ url_for('static', filename=video.video_path) }}" download>Clique para baixar o vídeo</a></div>
+                {% else %}
+                    <span class="waiting">{{ video.video_path }}</span>
+                {% endif %}
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
